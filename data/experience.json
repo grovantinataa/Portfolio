@@ -1,0 +1,17 @@
+[
+
+    {
+        "company": "PT Xentronic Indonesia",
+		"logo":"images/logoxentronic.jpeg",
+        "position": "Intern",
+        "year": "2024",
+        "description": "Experienced in assembling battery packs for medical equipment, Possesses a basic understanding of maintenance and repair of medical devices, Familiar with basic 3D design concepts and tools"
+    },
+	{
+        "company": "Frogs Indonesia",
+		"logo":"images/logofrogs.jpg",
+        "position": "Intern",
+        "year": "2021 - 2022",
+        "description": "Handled social media marketing tasks, including researching information about drones and creating infographics for social media content, Learned and gained basic knowledge related to drone assembly for spraying and aerial mapping purposes."
+    }
+]

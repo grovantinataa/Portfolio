@@ -1,0 +1,16 @@
+[
+    {
+        "university": "SMKN 7 STM Pembangunan Semarang",
+		"logo": "images/logostemba.png",
+        "major": "Power and Communication Electronics",
+        "year": "2019 - 2022",
+        "description": "Graduated on time after 4 years of vocational education, focusing on Power and Communication Electronics Engineering."
+    },
+    {
+        "university": "Politeknik Negeri Semarang",
+		"logo": "images/logopolines.png",
+        "major": "Electronic Engineering",
+        "year": "2022 - NOW",
+        "description": "Completed 3-year vocational education on time, focusing on Low-Current Electronics and actively participating in research-based control system projects. Won a Gold Medal in an Internet of Things (IoT) competition."
+    }
+]

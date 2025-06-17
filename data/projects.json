@@ -1,0 +1,35 @@
+[
+    {
+        "title": "lap-Activated Light System ",
+        "year": "2023",
+        "course": "Analog Electronics II",
+        "partner": "Group Project",
+        "description": "Designed a basic sound-activated lighting system using analog components to switch the lamp on and off by detecting claps. Focused on transistor switching and signal processing.",
+        "image": "images/LampuTepuk.png"
+    },
+    {
+        "title": "Microcontroller and Line Follower Robot",
+        "year": "2024",
+        "Course": "Microcontroller Laboratory",
+        "partner": "Group Project",
+        "description": "Built a smart drying rack that responds to environmental conditions using Arduino Nano. Integrated sensors for automation and applied power control concepts.",
+        "image": "images/linefollower.png"
+    },
+	{
+        "title": "Automatic Clothes Dryer System using Arduino Nano",
+        "year": "2024",
+        "course":"Design and Power Electronics Laboratory",
+        "partner": "Partner Project",
+        "description": "Built a smart drying rack that responds to environmental conditions using Arduino Nano. Integrated sensors for automation and applied power control concepts.",
+        "image": "images/desainpe.jpg"
+    },
+    {
+        "title": "Accuracy Testing Tool for Digital Sphygmomanometer (On Going)",
+        "year": "2025",
+        "course": "Final Project",
+        "partner": "Partner Project",
+        "image": "images/tensi.jpeg",
+        "description": "Created a system to measure and validate the accuracy of digital blood pressure monitors using an ESP32, pressure sensor, and solenoid valve. Implemented a touchscreen interface and custom control logic."
+    }
+   
+]

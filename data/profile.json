@@ -1,0 +1,39 @@
+{
+    "name": "Grovanti Nata Kiyansari Subagyo",
+    "description": "Electronics Engineering graduate with a solid foundation in circuits, microcontrollers (ESP32/Arduino), sensors, and basic C/C++ programming. Experienced in hands-on projects and automation systems, with strong teamwork, time management, and communication skills. Also skilled in content writing, with experience in digital fiction and content research. Quick to learn, adaptable, and eager to grow in both technical and creative fields within a dynamic work environment.",
+    "profileImage": "images/fotoprofil.jpg",
+    "email": "grovantinataa@gmail.com",
+    "phone": "+62 (896) 766-02103",
+    "socialMedia": [
+        {
+            "platform": "LinkedIn",
+            "url": "www.linkedin.com/in/grovanti-nata-kiyansari-subagyo-9544002ba"
+        },
+        {
+            "platform": "GitHub",
+            "url": "https://github.com/grovantinataa"
+        },
+        {
+            "platform": "Instagram",
+            "url": "https://www.instagram.com/grovantinataa"
+        }
+    ],
+    
+    "cv": {
+			"text": "Download CV",
+			"file": "docs/cv.pdf",
+			"icon": "fas fa-file-pdf"
+	},
+    "skills": [
+        {"name": "Basic Electronics", "icon": "fas fa-heart-pulse"},
+        {"name": "Design PCB", "icon": "fas fa-desktop"},
+        {"name": "Teamwork", "icon": "fas fa-desktop"},
+        {"name": "Leadership", "icon": "fas fa-desktop"},
+	    {"name": "Content Writer", "icon": "fas fa-c"},
+        {"name": "Fictional Writer", "icon": "fab fa-js"},
+	{"name": "Project Management", "icon": "fas fa-list-check"},
+	{"name": "Academic Writing", "icon": "fas fa-pen"}
+	    ]
+    
+}
+
